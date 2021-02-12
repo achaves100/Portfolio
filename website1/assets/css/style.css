@@ -1,3 +1,50 @@
 body{
     background: #BDBDBD;
 }
+
+.fatherdiv {width: 90%;
+            height: 70%;
+}
+
+.maindiv {margin-top: 10px;
+    padding: 20px;
+    display: block;
+    justify-items: left;
+}
+
+.contact    {display: inline-block;
+            position: center;
+            width: 90%;
+            height: 70%;
+         
+}
+
+#pcontact {display: inline-block;
+            position: block;
+            width: auto;
+            height: 50px;
+          
+}
+
+.formulario {
+            display: inline-block;
+            align-items: center;
+            width: 700px;
+            height: 300px;
+            position: relative;
+            margin-left: 25%;
+            margin-right: 25%;
+            margin-bottom: 10px;
+            background-color: gainsboro;
+            border-radius: 2%;
+        }
+
+.cajaformulario  { 
+            padding-right: 10%;
+            width: 650px;
+            height: 100px;
+            margin: 10%;
+}
+
+
+#BotForm {float: right}
