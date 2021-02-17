@@ -1,5 +1,6 @@
 body{
-    background: #BDBDBD;
+    background: white;
+    
 }
 
 .fatherdiv {width: 90%;
@@ -9,7 +10,7 @@ body{
 .maindiv {margin-top: 10px;
     padding: 20px;
     display: block;
-    justify-items: left;
+    justify-items: left;qa
 }
 
 .contact    {display: inline-block;
